@@ -1,0 +1,225 @@
+body {
+  background-color:#1F2227;
+}
+.container{
+  max-width: 1300px;
+  margin: auto;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 80px;
+  margin-top: 40px;
+ 
+}
+.header_link {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 100%;
+  font-family: "Space Grotesk", arial, sans-serif;
+
+}
+.chevron{
+  background-color: #41424E;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 700;
+ padding: 15px;
+  margin-right: 10px;
+}
+.back_homepage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.remix_logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 20px;
+}
+.cd_icon_yellow{
+  margin-right: 10px;
+}
+.onboarding-body {
+  max-width: 550px;
+  margin: auto;
+  background-color:#41424E;
+  border-radius: 5px;
+  font-family: "Space Grotesk", arial, sans-serif;
+  padding: 32px;
+  
+}
+.container_header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.steps{
+  color: #C6C8CD;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+}
+.setup p {
+  color: #C6C8CD;
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  line-height: 120%;
+  
+text-align: center;}
+.switch_mode {
+  background-color: black;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 7px;
+  max-width: 180px;
+  width: 100%;
+  font-family: "Space Grotesk", arial, sans-serif;
+  
+}
+.light {
+  margin-right: 15px;
+  display: flex;
+  text-decoration: none;
+  color: 
+  #A1A5AC;
+}
+.dark {
+  text-decoration: none;
+}
+
+.dark {
+  background-color: #494a51;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+h3 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+
+}
+
+.mode_icon {
+  margin-right: 3px;
+  max-width: 13px;
+  max-height: 17px;
+}
+
+.use-containers {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+.use {
+  
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.use-1{
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  padding: 20px 10px 10px 10px;
+}
+.use p {
+  color: #595959;
+  margin: 10px 12px;
+  line-height: 120%;
+  
+ 
+}
+.labels{
+  font-weight: bold;
+  margin-left: 12px;
+
+}
+
+.grey_button{
+  background-color: #41424E;
+  color: #F7CA18;
+  text-decoration: none;
+  text-align: center;
+  padding: 18px ;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.yellow_button{
+  background-color: #F7CA18;
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+  text-align: center;
+  padding: 18px ;
+  font-weight: bold;
+  width: 100%;
+}
+.container_footer {
+  color: #C6C8CD;
+  text-align: center;
+  font-size: 18px;
+  line-height: 110%;
+  margin-top: 40px;
+
+}
+.container_button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.figma_button{
+  background-color: #f7ca18;
+  color: #000000;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+  text-decoration: none;
+  width: 80%;
+  font-size: 17px;
+  line-height: 120%;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  
+}
+.figma_button img {
+  margin-right: 10px;
+}
+.change-containers{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.change_steps {
+  display: flex;
+width: 40%;
+justify-content: center;
+text-align: center;
+}
+
